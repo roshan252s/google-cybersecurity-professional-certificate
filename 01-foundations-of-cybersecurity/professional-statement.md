@@ -1,12 +1,12 @@
 
 # Portfolio Activity: Professional Statement
 
-## 🎯 Activity Overview
+## Activity Overview
 This professional statement outlines my background, core competencies, and career objectives as I transition into the cybersecurity domain through the Google Cybersecurity Professional Certificate program.
 
 ---
 
-## 💼 Professional Statement
+## Professional Statement
 
 I am an aspiring cybersecurity professional with a background in **web development and UI/UX design**, driven by a strong passion for protecting people, organizations, and sensitive information from evolving cyber threats.
 
@@ -18,7 +18,7 @@ Through the **Google Cybersecurity Professional Certificate** and ongoing hands-
 
 ---
 
-## 🔑 Key Transferrable Skills
+## Key Transferrable Skills
 * **Technical Background:** Web Development, UI/UX Design, System Architecture Basics
 * **Core Competencies:** Problem-Solving, Technical Communication, Critical Thinking
 * **Security Focus:** Risk Assessment, Threat Mitigation, Compliance & Ethics
