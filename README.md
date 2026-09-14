@@ -37,9 +37,13 @@ I am building a strong foundation in cybersecurity through hands-on exercises, s
 | Course 3 | Network Hardening Analysis | Network Hardening, Security Controls, Vulnerability Reduction | [View Analysis](./03-connect-and-protect-networks-and-network-security/activity-4-network-hardening-analysis.md) |
 | Course 3 | NIST CSF Incident Response Analysis | NIST CSF, Incident Response, Identify, Protect, Detect, Respond, Recover | [View Analysis](./03-connect-and-protect-networks-and-network-security/portfolio-activity-nist-csf-incident-response-analysis.md) |
 
+
 ## Key Concepts & Frameworks Covered
 
-* **Security Frameworks & Models:** NIST Cybersecurity Framework (CSF), CIA Triad, CISSP 8 Security Domains, OWASP Principles
-* **Risk & Security Operations:** Security Audits, Risk Management Lifecycles, Asset Protection, Vulnerability Identification
-* **Threat Response & SIEM:** SIEM Log Analysis, Incident Response Playbooks, Threat Mitigation
-* **Professional Foundations:** Cybersecurity History & Evolution, Ethics & Compliance Standards, Analyst Core Responsibilities
+* **Security Frameworks & Models:** NIST Cybersecurity Framework (NIST CSF), CIA Triad, CISSP 8 Security Domains, OWASP Security Principles
+* **Risk & Security Management:** Risk Assessment, Security Controls, Vulnerability Identification, Risk Mitigation, Asset Protection
+* **Network Security:** Network Traffic Analysis, Network Attack Analysis, Network Hardening, Operating System Hardening
+* **Incident Response:** Incident Identification, Detection, Response, Recovery, NIST CSF Incident Response Functions
+* **Security & Compliance:** PCI DSS, GDPR, SOC, Least Privilege, Separation of Duties, Data Protection
+* **Security Operations:** SIEM Log Analysis, Threat Identification, Security Monitoring, Incident Response
+* **Professional Foundations:** Cybersecurity History & Evolution, Ethics & Compliance, Security Analyst Responsibilities
