@@ -9,11 +9,13 @@ This repository demonstrates my developing skills in cybersecurity, including se
 I am building a strong foundation in cybersecurity through hands-on exercises, security analysis, and practical projects. My goal is to develop the technical and analytical skills required to work effectively in a cybersecurity role.
 
 
-## Progress Tracker (2 / 9 Courses Completed)
+## Progress Tracker 
+
+**3 / 9 Courses Completed · Course 4 In Progress**
 
 - [x] **Course 1:** Foundations of Cybersecurity
 - [x] **Course 2:** Play It Safe: Manage Security Risks
-- [ ] **Course 3:** Connect and Protect: Networks and Network Security
+- [x] **Course 3:** Connect and Protect: Networks and Network Security
 - [ ] **Course 4:** Tools of the Trade: Linux and SQL
 - [ ] **Course 5:** Assets, Threats, and Vulnerabilities
 - [ ] **Course 6:** Sound the Alarm: Detection and Response
