@@ -18,7 +18,7 @@ Through the **Google Cybersecurity Professional Certificate** and ongoing hands-
 
 ---
 
-## Key Transferrable Skills
+## Key Transferable Skills
 * **Technical Background:** Web Development, UI/UX Design, System Architecture Basics
 * **Core Competencies:** Problem-Solving, Technical Communication, Critical Thinking
 * **Security Focus:** Risk Assessment, Threat Mitigation, Compliance & Ethics
