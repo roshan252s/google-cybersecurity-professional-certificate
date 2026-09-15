@@ -31,7 +31,7 @@ echo "My name is Roshan Shah"
 ```
 #### Lab Screenshot
 
-![Echo command output](./images/07-echo-output.png)
+![Echo command output](./images/activity-3-01-echo-output.png)
 
 ### 2. Perform Calculations Using expr
 
@@ -43,7 +43,7 @@ expr 3500 * 12
 ```
 #### Lab Screenshot
 
-![Expr command calculation](./images/08-expr-calculation.png)
+![Expr command calculation](./images/activity-3-02-expr-calculation.png)
 
 ### 3. Clear the Shell Window
 
@@ -54,7 +54,7 @@ clear
 ```
 #### Lab Screenshot
 
-![Clear command execution](./images/09-clear-command.png)
+![Clear command execution](./images/activity-3-03-clear-command.png)
 
 ### 4. Combined Command Execution
 
@@ -69,4 +69,4 @@ clear
 
 #### Lab Screenshot
 
-![Combined shell command execution](./images/10-combined-shell-commands.png)
+![Combined shell command execution](./images/activity-3-04-combined-shell-commands.png)
