@@ -35,7 +35,7 @@ The output confirmed that APT was available and ready to manage packages in the 
 
 #### Lab Screenshot
 
-![APT verification](./images/01-apt-verification.png)
+![APT verification](./images/activity-2-01-apt-verification.png)
 
 ### 2. Install tcpdump
 
@@ -49,7 +49,7 @@ The package was successfully installed in the Debian Linux environment.
 
 #### Lab Screenshot
 
-![tcpdump installation](./images/02-tcpdump-installation.png)
+![tcpdump installation](./images/activity-2-02-tcpdump-installation.png)
 
 ### 3. Verify tcpdump Installation
 
@@ -63,7 +63,7 @@ The output confirmed that tcpdump was installed and available.
 
 #### Lab Screenshot
 
-![tcpdump verification](./images/03-tcpdump-verification.png)
+![tcpdump verification](./images/activity-2-03-tcpdump-verification.png)
 
 ### 4. Uninstall tcpdump
 
@@ -77,7 +77,7 @@ The package was successfully removed from the Linux environment and the removal 
 
 #### Lab Screenshot
 
-![tcpdump removal and verification](./images/04-tcpdump-removal-and-verification.png)
+![tcpdump removal and verification](./images/activity-2-04-tcpdump-removal-and-verification.png)
 
 ### 5. Reinstall and Verify tcpdump
 
@@ -91,7 +91,7 @@ The installation was completed successfully and tcpdump was verified after reins
 
 #### Lab Screenshot
 
-![tcpdump reinstallation and verification](./images/05-tcpdump-reinstallation-and-verification.png)
+![tcpdump reinstallation and verification](./images/activity-2-05-tcpdump-reinstallation-and-verification.png)
 
 ### 6. List Installed Packages
 
@@ -105,7 +105,7 @@ This displayed the packages currently installed on the system.
 
 #### Lab Screenshot
 
-![List of installed packages](./images/06-list-installation.png)
+![List of installed packages](./images/activity-2-06-list-installation.png)
 
 
 
