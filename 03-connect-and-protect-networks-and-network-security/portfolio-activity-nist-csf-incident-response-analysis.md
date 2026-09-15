@@ -2,6 +2,7 @@
 
 ## Activity Overview
 Following a Denial of Service (DoS) attack that disrupted internal network access for two hours, this security incident report analyzes the breach using the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). The report outlines the root cause of the incident and details actionable measures across the Identify, Protect, Detect, Respond, and Recover functions to harden the organization's network against future threats.
+
 ---
 
 ## Summary
