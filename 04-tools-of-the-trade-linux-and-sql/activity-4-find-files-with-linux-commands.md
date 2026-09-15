@@ -89,10 +89,10 @@ In this task, I navigated to the `users` directory, located the `Q1_added_users.
 
 **1. Navigate to the `/home/analyst/reports/users` directory.**
 
-I used the `cd` command to navigate to the `users` directory using an absolute path.
+I used the `cd` command to navigate to the `users` directory using a relative path.
 
 ```bash
-cd /home/analyst/reports/users
+cd users
 ```
 
 **2. List the files in the current directory.**
